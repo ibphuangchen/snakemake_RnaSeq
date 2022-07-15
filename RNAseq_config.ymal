@@ -1,0 +1,49 @@
+---
+humanGenomeFa:
+  "/rsrch3/scratch/thera_dis/chuang8/reference/Homo_sapiens.GRCh38.dna.primary_assembly.fa"
+humanGenomeFaChr:
+  "/rsrch3/scratch/thera_dis/chuang8/reference/GRCh38.primary_assembly.genome.fa"
+starRef:
+  "/rsrch3/scratch/thera_dis/chuang8/reference/starGenomeDir"
+starRefNuORF:
+  "/rsrch3/scratch/thera_dis/chuang8/reference/starGenomeDirRiboSeq"
+starFusionRef:
+  '/home/p_eclipse_combio/workspace/data/reference/human+hpv16/GRCh38_gencode_v33_CTAT_lib_Apr062020.source/ctat_genome_lib_build_dir'
+arribaBlack:
+  '/rsrch3/scratch/thera_dis/chuang8/reference/arriba/blacklist_hg38_GRCh38_2018-11-04.tsv.gz'
+picardref:
+  '/rsrch3/scratch/thera_dis/chuang8/reference/Homo_sapiens.GRCh38.101.refFlat'
+picardref_hg19:
+  "/rsrch3/scratch/thera_dis/chuang8/reference/Homo_sapiens.GRCh37.87.refFlat"
+picardribo:
+  '/rsrch3/scratch/thera_dis/chuang8/reference/ensemble.v38.rRNA.fromUCSC.interval_list'
+picardribo_hg19:
+  "/rsrch3/scratch/thera_dis/chuang8/reference/ensembl.rRNA.hg19.interval_list"
+ensemblGTF:
+  "/rsrch3/scratch/thera_dis/chuang8/reference/Homo_sapiens.GRCh38.101.gtf"
+ensemblBED:
+  "/rsrch3/scratch/thera_dis/chuang8/reference/Homo_sapiens.GRCh38.101.bed"
+ensemblBED_hg19:
+  "/rsrch3/scratch/thera_dis/chuang8/reference/hg19_Ensembl_gene.bed"
+cytobands:
+  "/rsrch3/scratch/thera_dis/chuang8/reference/arriba/cytobands_hg38_GRCh38_2018-02-23.tsv"
+proteinDomains:
+  "/rsrch3/scratch/thera_dis/chuang8/reference/arriba/protein_domains_hg38_GRCh38_2019-07-05.gff3"
+rsemRef:
+  "/rsrch3/scratch/thera_dis/chuang8/reference/starGenomeDir/hg38"
+gatkDbSNP:
+  "/rsrch3/scratch/thera_dis/chuang8/reference/hg38_v0_Homo_sapiens_assembly38.dbsnp138.vcf.gz"
+gatkDbIndel:
+  "/rsrch3/scratch/thera_dis/chuang8/reference/hg38_v0_Homo_sapiens_assembly38.known_indels.vcf.gz"
+gatk1000SNP:
+  "/rsrch3/scratch/thera_dis/chuang8/reference/hg38_v0_1000G_phase1.snps.high_confidence.hg38.vcf.gz"
+picard:
+  "/rsrch3/scratch/thera_dis/chuang8/shared/picard.jar"
+vcf2mafRefFasta:
+  "/rsrch3/home/thera_dis/p_eclipse_combio/.vep/homo_sapiens/104_GRCh38/Homo_sapiens.GRCh38.dna.toplevel.fa.gz"
+vcf2mafRefBuild:
+  "GRCh38"
+vepCache:
+  "/rsrch3/home/thera_dis/p_eclipse_combio/.vep"
+vepPath:
+  "/home/p_eclipse_combio/.conda/envs/bio/bin"
